@@ -1,21 +1,59 @@
-Assignment 3 – C Programming
+# Assignment 3 – C Programming
 
-Description
+## Description
 
-This folder contains C programs completed as part of Assignment 3. These programs help develop programming logic and problem-solving skills using the C language.
+This assignment contains C programs developed to practice conditional statements, loops, functions, character handling, and Boolean return values.
 
-Topics Covered
-- Loops and iterations
-- Conditional statements
-- Number-based programs
-- Pattern printing
+## Programs
+
+| Sr. No. | Program Name | Description |
+|:---:|---|---|
+| 1 | PrintEven | Prints the first N even numbers. |
+| 2 | DisplayFactor | Displays the even factors of a given number. |
+| 3 | DisplayEvenFactor | Displays the even factors of a given number using a separate function. |
+| 4 | DisplayConvert | Converts a lowercase character to uppercase and vice versa. |
+| 5 | ChkVowel | Checks whether the given character is a vowel or not. |
+
+## Concepts Covered
+
 - Functions
+- Conditional statements (`if-else`)
+- Loops (`for`)
+- Boolean data type (`bool`)
+- Character handling
 - Input and output operations
-- Basic problem-solving logic
+- Return values
+- Basic input validation
 
-Language :
+## Technologies Used
 
-C Programming
+- **Language:** C
+- **Compiler:** GCC
+- **Editor:** Visual Studio Code
+- **Version Control:** Git and GitHub
 
-Author :
-Sakshi Mehetre
+## How to Compile and Run
+
+Compile a program using GCC:
+
+```bash
+gcc program3_1.c -o program3_1
+```
+
+Run the executable on Windows:
+
+```bash
+program3_1.exe
+```
+
+Repeat the process for the remaining programs.
+
+## Author
+
+**Sakshi Mehetre**
+
+E&TC Engineering Student
+
+## Assignment
+
+Assignment 3 – C Programming Practice
