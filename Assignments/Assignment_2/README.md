@@ -1,16 +1,17 @@
 Assignment 2 – C Programming
 
-Description
+Description :
+
 This folder contains C programming programs for Assignment 2.
 
-Topics Covered
+Topics Covered :
 - Conditional statements
 - Loops
 - Number-based programs
 - Basic programming logic
 
-Language
+Language :
 C Programming
 
-Author
+Author : 
 Sakshi Mehetre
